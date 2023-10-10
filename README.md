@@ -5,8 +5,6 @@
 <h3 align="center">Enthusiastic programming student, focused on Java backend and QA Automation.</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sebaag&label=Profile%20views&color=0e75b6&style=flat" alt="sebaag" /> </p>
-
 - 📫 How to reach me **sebaz.garcia@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
